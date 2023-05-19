@@ -1,6 +1,7 @@
 ---
 order: 99
 ---
+
 ![](/assets/image63.png)
 Kakera Tower is one of the features we spend kakeras on almost immediately after badges. They give [several different types](https://mudae.fandom.com/wiki/Kakera_Tower) of bonuses and give additional boosts during your Mudae journey. Although there are a dozen of unique bonuses, there are quite few of them that are high-priority (meaning which floor to build 1st).
 
